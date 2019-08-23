@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1352920731 source:c:\erikprogram\networkcom\client\main.cpp
+	<windows.h>
+	<stdio.h>
+	<iostream>
+	<fcntl.h>
+	<winsock2.h>
+	<vector>
+	<string>
+
+1353441925 source:c:\erikprogram\networkcom\async netcom class\client\main.cpp
+	<windows.h>
+	<stdio.h>
+	<iostream>
+	<fcntl.h>
+	<winsock2.h>
+	<vector>
+	<string>
+	"..\Server\networkCom.h"
+
+1353441919 source:c:\erikprogram\networkcom\async netcom class\server\clientcom.cpp
+	"clientCom.h"
+
+1353441913 c:\erikprogram\networkcom\async netcom class\server\clientcom.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<vector>
+	<winsock2.h>
+
+1353441710 source:c:\erikprogram\networkcom\async netcom class\server\networkcom.cpp
+	"networkCom.h"
+
+1353442132 c:\erikprogram\networkcom\async netcom class\server\networkcom.h
+	<winsock2.h>
+	<iostream>
+	<string>
+	<vector>
+	<winsock2.h>
+	"serverCom.h"
+	"clientCom.h"
+
+1353360294 c:\erikprogram\networkcom\async netcom class\server\servercom.h
+	<iostream>
+	<stdlib.h>
+	<winsock2.h>
+	<string>
+	<vector>
+
+1353437797 source:c:\erikprogram\networkcom\async netcom class\server\servercom.cpp
+	"serverCom.h"
+
+1353011521 c:\erikprogram\networkcom\async netcom class\client\networkcom.h
+	<string>
+	<vector>
+	<winsock2.h>
+	<windows.h>
+	"serverCom.h"
+	"clientCom.h"
+
+1353009853 c:\erikprogram\networkcom\async netcom class\client\servercom.h
+	<windows.h>
+	<iostream>
+	<winsock2.h>
+	<string>
+	<vector>
+
+1353009853 c:\erikprogram\networkcom\async netcom class\client\clientcom.h
+	<windows.h>
+	<iostream>
+	<string>
+	<vector>
+	<winsock2.h>
+
+1353011521 source:c:\erikprogram\networkcom\async netcom class\client\networkcom.cpp
+	"networkCom.h"
+
+1353010812 source:c:\erikprogram\networkcom\async netcom class\client\servercom.cpp
+	"serverCom.h"
+
+1353011521 source:c:\erikprogram\networkcom\async netcom class\client\clientcom.cpp
+	"clientCom.h"
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="clientCom.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="4529" topLine="12" />
+	</File>
+	<File name="clientCom.h" open="1" top="0" tabpos="6">
+		<Cursor position="1106" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="2666" topLine="75" />
+	</File>
+	<File name="networkCom.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="1551" topLine="16" />
+	</File>
+	<File name="networkCom.h" open="1" top="0" tabpos="2">
+		<Cursor position="6439" topLine="0" />
+	</File>
+	<File name="serverCom.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="7246" topLine="27" />
+	</File>
+	<File name="serverCom.h" open="1" top="0" tabpos="4">
+		<Cursor position="551" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
